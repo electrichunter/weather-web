@@ -14,7 +14,7 @@ const WeatherApp = () => {
       temp: number;
       // Diğer gerekli özellikleri ekleyin
     };
-    // Diğer gerekli özellikleri ekleyin
+    // Diğer gerekli özellikleri ekleyin.
   }
 
   const [weatherData, setWeatherData] = useState<WeatherData | null>(null);
